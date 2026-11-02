@@ -4,6 +4,7 @@ OnlyKicks je skalabilno softversko rešenje za prodaju patika razvijeno u sklopu
 
 ---
 
+<<<<<<< HEAD
 ## 👤 Informacije o studentu
 - **Ime i prezime:** Teodora Nikolić
 - **Broj indeksa:** SV66/2022
@@ -11,6 +12,8 @@ OnlyKicks je skalabilno softversko rešenje za prodaju patika razvijeno u sklopu
 
 ---
 
+=======
+>>>>>>> f5791767b14a9884ea137ab856bdf96b07af714a
 ## 🛠️ Korišćene tehnologije
 - **Backend:** Java 17+, Spring Boot 4 / 3, Spring Data JPA, Spring Security, JJWT
 - **Frontend:** Angular 20 Standalone, TypeScript, CSS
